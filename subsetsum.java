@@ -21,7 +21,7 @@ Approach:
 ==========================================================
 */
 
-public class SubsetSum {
+public class subsetsum {
 
     static boolean solve(int i, int n, int[] arr, int k) {
         if (k == 0) return true;
