@@ -51,4 +51,5 @@ public class GenerateParentheses {
         }
         System.out.println();
     }
+
 }
